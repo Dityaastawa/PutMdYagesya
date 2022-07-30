@@ -107,7 +107,7 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 's3Icbx3z',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://botstyle-api.herokuapp.com': 'sDfHVOxR',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
